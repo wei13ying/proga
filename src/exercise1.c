@@ -17,5 +17,5 @@ int main (int argc, char** argv) {
         sum += arr[i];
     }
 
-    printf("%.2f", sum / 10);
+    printf("%.3f", sum / 10);
 }
